@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    font-family: Monaco, monospace;
+    font-size: 14px;
+}
+
+nav {
+    margin-bottom: 0;
+    border-style: solid;
+    padding: 3px;
+}
+
+.nounderline {
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Monaco, monospace;
+    font-size: 72px;
+    background: -webkit-linear-gradient(180deg, blue, rgb(114, 37, 247));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 15;
+}
+
+h2 {
+    font-family: Monaco, monospace;
+    background: -webkit-linear-gradient(180deg, blue, rgb(114, 37, 247));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top:0;
+}
+
+button {
+    background-color: rgb(222, 214, 202);
+    font-family: Monaco, monospace;
+    border-radius: 15px;
+}
+
+#music {
+    background-color: beige;
+    padding: 10px;
+    border-style: solid;
+    border-width: 0px;
+    border-left-width: 5px;
+    border-color: rgb(85, 85, 85);
+}
+
