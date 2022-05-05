@@ -19,7 +19,9 @@ h1 {
     font-size: 72px;
     background: -webkit-linear-gradient(180deg, blue, rgb(114, 37, 247));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
+    
     margin-bottom: 15;
 }
 
@@ -27,6 +29,7 @@ h2 {
     font-family: Monaco, monospace;
     background: -webkit-linear-gradient(180deg, blue, rgb(114, 37, 247));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-top:0;
 }
